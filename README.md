@@ -1,2 +1,4 @@
 # gitandgithub
-learning git and github
+learning git and GitHub
+<br>
+Author: Atul Kashyap
